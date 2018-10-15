@@ -1,6 +1,6 @@
-package cz.uhk.fim.rssreader.app.app;
+package cz.uhk.fim.rssreader.app;
 
-import cz.uhk.fim.rssreader.app.gui.MainFrame;
+import cz.uhk.fim.rssreader.gui.MainFrame;
 
 import javax.swing.*;
 
